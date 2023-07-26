@@ -31,7 +31,7 @@ In essence, the Markus document network is an hommage to simplicity and user-foc
 
 For further details or to contribute, visit the GitHub repositories:
 
-    [MarkServ](https://github.com/donuts-are-good/markserv)
-    [MarkClient](https://github.com/donuts-are-good/markclient)
+- [MarkServ](https://github.com/donuts-are-good/markserv)
+- [MarkClient](https://github.com/donuts-are-good/markclient)
 
 Enjoy the journey through the Markus document network!
