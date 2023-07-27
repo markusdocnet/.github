@@ -1,3 +1,5 @@
+<img alt="image" src="https://github.com/markusnetwork/.github/assets/96031819/ceaa3048-4ecc-49c4-9896-910f3b34dade">
+
 # Markus Document Network
 
 The Markus document network is a minimalistic system designed for sharing and viewing documents written in Markdown and plaintext. It aims to make the process of creating and maintaining a web of documents as easy and straightforward as possible.
